@@ -164,3 +164,11 @@ Password: 6KT9cPZVnwcdCL8
 - **Ant Design & TailwindCSS** for UI
 - **Clerk Authentication**
 - **Datadog Browser Logs**
+
+---
+
+## Video Demonstrations
+
+- **Test-Task Part 1 - Client Side**: [Watch Here](https://www.loom.com/share/6f07793e54b743a996ade24abf9595cc?sid=64bc78c3-73c7-42d6-8525-02b3eeeb9954)
+- **Test-Task Part 2 - Server Side**: [Watch Here](https://www.loom.com/share/72c369a5f5b742f6835e674e2da5feef?sid=36fbba42-e127-4e8d-9e3a-7a24387818ed)
+- **Test-Task Part 3 - Website Overview**: [Watch Here](https://www.loom.com/share/0bd6fa40769d43d68eaf9d5ca675bbe3?sid=770a32f3-3040-4036-8a59-e3e6df8af172)
