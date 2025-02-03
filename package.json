@@ -1,0 +1,14 @@
+{
+  "name": "depo-iq-fullstack",
+  "version": "1.0.0",
+  "description": "**Depo IQ** is a full-stack application for managing topics, built with modern technologies for scalability, security, and performance. The application is interacts with MongoDB for data persistence and Redis for caching.",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "dev": "cd ./server && npm run dev & cd ./client && npm run dev",
+    "build": "cd ./server && npm run build && cd ./client && npm run build",
+    "start": "cd ./server && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
